@@ -35,12 +35,11 @@ um mensageiro e para a possibilidade do exército azul impossibilitar o horário
 import random
 import time
 from datetime import datetime
+import time
 
 def two_generals():
-    sinalizador = 0
     time_init = datetime.now()
     print("Hora de inicio: "+str(time_init.hour)+':'+str(time_init.minute)+":"+str(time_init.second))
-    tempoInicio = dateTime_toSeg(time_init.hour, time_init.minute, time_init.second)
     vermelho_mensageiro = 0
     azul_mensageiro = 0
     time_elapsed = []
@@ -66,10 +65,10 @@ def two_generals():
                 capt, time_elapsed, tempoVermelho, tempoAzul = tentativaCaptura(time_elapsed, tempoVermelho, tempoAzul, 1)
             if (capt == 0):
                 return 0, time_elapsed
-        
             if (capt == 1 or tempoAzul == [70,70]):
                 tempoAzul = []
-        if (capturou == 1 or tempoVermelho == [70,70]):
+
+        if (capturou == 1 or tempoVermelho == [70,70,70]):
             tempoVermelho = []
         if (vermelho_mensageiro == 5 and azul_mensageiro == 0):
             return 1, time_elapsed
@@ -98,7 +97,7 @@ def tentativaCaptura(time_elapsed, tempoVermelho, tempoAzul ,azul):
         tempoAzul.append(70)
     if (tentativa <= 45):
         print("Castelo Capturou!")
-        time_elapsed.append(210 * 60)
+        time_elapsed.append(210 * 60 + 1)
         return 1, time_elapsed, tempoVermelho, tempoAzul
     else:
         print("Castelo nao Capturou!")
@@ -123,9 +122,6 @@ def enviaAzul(time_elapsed, azul_mensageiro, tempoAzul):
     return time_elapsed, azul_mensageiro, tempoAzul
             
 
-def dateTime_toSeg(h, m, s):
-    return s+(m*60)+(h*3600)
-
 def seg_toDateTime(s):
     s = s % (24 * 3600 * 60)
     s %= 216000
@@ -138,7 +134,7 @@ def seg_toDateTime(s):
 
 problem, time_elapsed = two_generals()
 if problem == 0:
-    print("\nDeu tudo certo")
+    print("\nSinalizador disparado")
 if problem == 1:
     print("\nVermelho sem mensageiros")
 if problem == 2:
@@ -147,9 +143,15 @@ if problem == 2:
 for i in range(0, len(time_elapsed)):
     try:
         if (time_elapsed[i+1] == 12600):
-                time_elapsed[i] = -1
+                time_elapsed[i] = 0
     except:
         None
 
+time_stamp_inicial = time.time()
+time_stamp_final = time_stamp_inicial + sum(time_elapsed)
+
 hour, minutes, s = seg_toDateTime(sum(time_elapsed))
+
 print("Tempo decorrido: %02d:%02d:%02d"%(hour, minutes, s))
+print("\nTimestamp Inicial: %.0f"%(time_stamp_inicial))
+print("Timestamp Final: %.0f"%(time_stamp_final))
