@@ -77,6 +77,7 @@ def two_generals():
                 tempoAzul = []
 
         if (capturou == 1 or sum(tempoVermelho) > 12600):
+            everReached = 0
             tempoVermelho = []
 
 
@@ -164,7 +165,7 @@ if problem == 2:
 for i in range(0, len(time_elapsed)):
     try:
         if (time_elapsed[i+1] == 12600):
-                time_elapsed[i] = 0
+            time_elapsed[i] = 0
     except:
         None
 
