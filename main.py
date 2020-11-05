@@ -35,7 +35,6 @@ um mensageiro e para a possibilidade do exército azul impossibilitar o horário
 import random
 import time
 from datetime import datetime
-import time
 
 def two_generals():
     time_init = datetime.now()
@@ -53,7 +52,7 @@ def two_generals():
             # Envia um mensageiro vermelho e verifica se foi capturado
             time_elapsed, vermelho_mensageiro, tempoVermelho = enviaVermelho(time_elapsed, vermelho_mensageiro, tempoVermelho)
             capturou, time_elapsed, tempoVermelho, tempoAzul = tentativaCaptura(time_elapsed, tempoVermelho, tempoAzul, 0)
-        if (capturou == 0):
+        if (capturou == 0 and everReached != 1):
             # Chega no Azul
             imp, time_elapsed, azul_mensageiro = chegaNoAzul(time_elapsed, azul_mensageiro)
             if (imp == 0):
@@ -92,9 +91,11 @@ def enviaVermelho(time_elapsed, vermelho_mensageiro, tempoVermelho):
 
 def tentativaCaptura(time_elapsed, tempoVermelho, tempoAzul ,azul):
     tentativa = random.randint(1, 101)
-    tempoVermelho.append(70)
+    tempoDecorrido = random.randint(60, 71)
+    tempoVermelho.append(tempoDecorrido)
     if (azul == 1):
-        tempoAzul.append(70)
+        tempoDecorrido = random.randint(60, 71)
+        tempoAzul.append(tempoDecorrido)
     if (tentativa <= 45):
         print("Castelo Capturou!")
         time_elapsed.append(210 * 60 + 1)
