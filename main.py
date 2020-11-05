@@ -46,7 +46,7 @@ from datetime import datetime
 def two_generals():
     time_init = datetime.now()
     print("Hora de inicio: "+str(time_init.hour)+':'+str(time_init.minute)+":"+str(time_init.second))
-    
+
     vermelho_mensageiro, azul_mensageiro = 0, 0
     tempoVermelho, tempoAzul, time_elapsed  = [], [], []
     everReached = 0
@@ -79,14 +79,11 @@ def two_generals():
         if (capturou == 1 or sum(tempoVermelho) > 12600):
             tempoVermelho = []
 
-        if (vermelho_mensageiro == 5):
-            return 1, time_elapsed
-
-        if (azul_mensageiro == 10):
-            return 2, time_elapsed
-
 
 def verMensageiro(vermelho_mensageiro, azul_mensageiro):
+    if (vermelho_mensageiro == 5):
+        return 1
+
     if (azul_mensageiro == 10):
         return 2
 
@@ -154,6 +151,7 @@ def seg_toDateTime(s):
 
 
 problem, time_elapsed = two_generals()
+
 if problem == 0:
     print("\nSinalizador disparado")
 
