@@ -32,6 +32,13 @@ Deve-se utilizar um gerador randômico para o tempo de travessia do mensageiro, 
 um mensageiro e para a possibilidade do exército azul impossibilitar o horário escolhido pelo exército vermelho
 '''
 
+# Desenvolvido por:
+#   Diogo Silveira dos Santos
+#   João Vitor Izael Souza  
+#   João Vitor Oliveira de Melo  
+#   Luiz Otávio de Oliveira Silva
+#   Pedro Henrique Carreto Morais
+
 import random
 import time
 from datetime import datetime
@@ -39,24 +46,26 @@ from datetime import datetime
 def two_generals():
     time_init = datetime.now()
     print("Hora de inicio: "+str(time_init.hour)+':'+str(time_init.minute)+":"+str(time_init.second))
-    vermelho_mensageiro = 0
-    azul_mensageiro = 0
-    time_elapsed = []
-    tempoVermelho = []
-    tempoAzul = []
+    
+    vermelho_mensageiro, azul_mensageiro = 0, 0
+    tempoVermelho, tempoAzul, time_elapsed  = [], [], []
     everReached = 0
+
     while(True):
         if (verMensageiro(vermelho_mensageiro, azul_mensageiro) != 0):
             return verMensageiro(vermelho_mensageiro, azul_mensageiro), time_elapsed
+
         if (tempoVermelho == []):
             # Envia um mensageiro vermelho e verifica se foi capturado
             time_elapsed, vermelho_mensageiro, tempoVermelho = enviaVermelho(time_elapsed, vermelho_mensageiro, tempoVermelho)
             capturou, time_elapsed, tempoVermelho, tempoAzul = tentativaCaptura(time_elapsed, tempoVermelho, tempoAzul, 0)
+
         if (capturou == 0 and everReached != 1):
             # Chega no Azul
             imp, time_elapsed, azul_mensageiro = chegaNoAzul(time_elapsed, azul_mensageiro)
             if (imp == 0):
                 everReached = 1
+
         if (everReached == 1):
             if (tempoAzul == []):
                 # Envia um mensageiro azul e verifica se foi capturado
@@ -64,18 +73,23 @@ def two_generals():
                 capt, time_elapsed, tempoVermelho, tempoAzul = tentativaCaptura(time_elapsed, tempoVermelho, tempoAzul, 1)
             if (capt == 0):
                 return 0, time_elapsed
-            if (capt == 1 or tempoAzul == [70,70]):
+            if (capt == 1 or sum(tempoAzul) > 4200):
                 tempoAzul = []
 
-        if (capturou == 1 or tempoVermelho == [70,70,70]):
+        if (capturou == 1 or sum(tempoVermelho) > 12600):
             tempoVermelho = []
-        if (vermelho_mensageiro == 5 and azul_mensageiro == 0):
+
+        if (vermelho_mensageiro == 5):
             return 1, time_elapsed
+
+        if (azul_mensageiro == 10):
+            return 2, time_elapsed
 
 
 def verMensageiro(vermelho_mensageiro, azul_mensageiro):
     if (azul_mensageiro == 10):
         return 2
+
     return 0
 
 
@@ -83,23 +97,27 @@ def enviaVermelho(time_elapsed, vermelho_mensageiro, tempoVermelho):
     # Enviando o vermelho
     if (vermelho_mensageiro == 5):
         return time_elapsed, vermelho_mensageiro, tempoVermelho
+
     vermelho_mensageiro += 1
     time_elapsed.append(random.randint(3600, 4201))
+
     print("Enviando mensageiro vermelho", 5-vermelho_mensageiro,"restantes")
     return time_elapsed, vermelho_mensageiro, tempoVermelho
 
 
 def tentativaCaptura(time_elapsed, tempoVermelho, tempoAzul ,azul):
     tentativa = random.randint(1, 101)
-    tempoDecorrido = random.randint(60, 71)
+    tempoDecorrido = random.randint(3600, 4201)
     tempoVermelho.append(tempoDecorrido)
+
     if (azul == 1):
-        tempoDecorrido = random.randint(60, 71)
         tempoAzul.append(tempoDecorrido)
+
     if (tentativa <= 45):
         print("Castelo Capturou!")
-        time_elapsed.append(210 * 60 + 1)
+        time_elapsed.append(12600 + 1)
         return 1, time_elapsed, tempoVermelho, tempoAzul
+
     else:
         print("Castelo nao Capturou!")
         return 0, time_elapsed, tempoVermelho, tempoAzul
@@ -107,6 +125,7 @@ def tentativaCaptura(time_elapsed, tempoVermelho, tempoAzul ,azul):
 
 def chegaNoAzul(time_elapsed, azul_mensageiro):
     negar = random.randint(1, 101)
+
     if(negar == 1):
         print("Exercito azul impossibilitou o horário!")
         return 1, time_elapsed, azul_mensageiro
@@ -119,6 +138,7 @@ def enviaAzul(time_elapsed, azul_mensageiro, tempoAzul):
     # Enviando o azul
     azul_mensageiro += 1
     time_elapsed.append(random.randint(3600, 4201))
+
     print("Enviando mensageiro azul", 10-azul_mensageiro,"restantes")
     return time_elapsed, azul_mensageiro, tempoAzul
             
@@ -136,8 +156,10 @@ def seg_toDateTime(s):
 problem, time_elapsed = two_generals()
 if problem == 0:
     print("\nSinalizador disparado")
+
 if problem == 1:
     print("\nVermelho sem mensageiros")
+
 if problem == 2:
     print("\nAzul sem mensageiros")
 
