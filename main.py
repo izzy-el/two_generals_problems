@@ -81,7 +81,7 @@ def two_generals():
             if (capt == 1 or sum(tempoAzul) > 4200):
                 tempoAzul = []
 
-        if (capturou == 1 or sum(tempoVermelho) > 12600 or everReached == 0):
+        if (sum(tempoVermelho) > 12600 or everReached == 0):
             tempoVermelho = []
 
 
@@ -158,36 +158,33 @@ def seg_toDateTime(s):
     return hour, minutes, s
 
 
-for i in range(1, 101):
-    print("\nTentativa", i)
-    # Inicia o problema
-    problem, time_elapsed = two_generals()
+# Inicia o problema
+problem, time_elapsed = two_generals()
 
-    # Verifica as saidas obtidas
-    if problem == 0:
-        print("\nSinalizador disparado")
+# Verifica as saidas obtidas
+if problem == 0:
+    print("\nSinalizador disparado")
 
-    if problem == 1:
-        print("\nVermelho sem mensageiros")
+if problem == 1:
+    print("\nVermelho sem mensageiros")
 
-    if problem == 2:
-        print("\nAzul sem mensageiros")
+if problem == 2:
+    print("\nAzul sem mensageiros")
 
-    # Elimina contagens de tempo inválidas
-    for i in range(0, len(time_elapsed)):
-        try:
-            if (time_elapsed[i+1] == 12600):
-                time_elapsed[i] = 0
-        except:
-            None
+# Elimina contagens de tempo inválidas
+for i in range(0, len(time_elapsed)):
+    try:
+        if (time_elapsed[i+1] == 12600):
+            time_elapsed[i] = 0
+    except:
+        None
 
-    # Define e exibe os timestamps
-    time_stamp_inicial = time.time()
-    time_stamp_final = time_stamp_inicial + sum(time_elapsed)
+# Define e exibe os timestamps
+time_stamp_inicial = time.time()
+time_stamp_final = time_stamp_inicial + sum(time_elapsed)
 
-    hour, minutes, s = seg_toDateTime(sum(time_elapsed))
+hour, minutes, s = seg_toDateTime(sum(time_elapsed))
 
-    print("Tempo decorrido: %02d:%02d:%02d" % (hour, minutes, s))
-    print("\nTimestamp Inicial: %.0f" % (time_stamp_inicial))
-    print("Timestamp Final: %.0f" % (time_stamp_final))
-    print("\n------------------------------------------------------")
+print("Tempo decorrido: %02d:%02d:%02d" % (hour, minutes, s))
+print("\nTimestamp Inicial: %.0f" % (time_stamp_inicial))
+print("Timestamp Final: %.0f" % (time_stamp_final))

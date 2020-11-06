@@ -1,178 +1,198 @@
 ------------------------------------------------------
 
 Tentativa 1
-Hora de inicio: 22:49:47
+Hora de inicio: 23:10:59
 Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
 Castelo Capturou!
-Enviando mensageiro azul 8 restantes
+Enviando mensageiro vermelho 3 restantes
 Castelo Capturou!
-Enviando mensageiro azul 7 restantes
-Castelo nao Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 1 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 0 restantes
+Castelo Capturou!
 
-Sinalizador disparado
-Tempo decorrido: 11:26:31
+Vermelho sem mensageiros
+Tempo decorrido: 22:53:56
 
-Timestamp Inicial: 1604627387
-Timestamp Final: 1604668578
+Timestamp Inicial: 1604628659
+Timestamp Final: 1604711095
 
 ------------------------------------------------------
 
 Tentativa 2
-Hora de inicio: 22:49:47
+Hora de inicio: 23:10:59
 Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 11:17:23
+Tempo decorrido: 02:11:11
 
-Timestamp Inicial: 1604627387
-Timestamp Final: 1604668030
+Timestamp Inicial: 1604628660
+Timestamp Final: 1604636531
 
 ------------------------------------------------------
 
 Tentativa 3
-Hora de inicio: 22:49:47
+Hora de inicio: 23:10:59
 Enviando mensageiro vermelho 4 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 06:37:04
+Tempo decorrido: 02:08:37
 
-Timestamp Inicial: 1604627387
-Timestamp Final: 1604651211
+Timestamp Inicial: 1604628660
+Timestamp Final: 1604636377
 
 ------------------------------------------------------
 
 Tentativa 4
-Hora de inicio: 22:49:47
+Hora de inicio: 23:10:59
 Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 1 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 0 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
+Castelo Capturou!
 
-Sinalizador disparado
-Tempo decorrido: 02:09:37
+Vermelho sem mensageiros
+Tempo decorrido: 24:07:09
 
-Timestamp Inicial: 1604627388
-Timestamp Final: 1604635165
+Timestamp Inicial: 1604628660
+Timestamp Final: 1604715489
 
 ------------------------------------------------------
 
 Tentativa 5
-Hora de inicio: 22:49:47
+Hora de inicio: 23:10:59
 Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 1 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 15:55:42
+Tempo decorrido: 02:13:56
 
-Timestamp Inicial: 1604627388
-Timestamp Final: 1604684730
+Timestamp Inicial: 1604628660
+Timestamp Final: 1604636696
 
 ------------------------------------------------------
 
 Tentativa 6
-Hora de inicio: 22:49:47
+Hora de inicio: 23:10:59
 Enviando mensageiro vermelho 4 restantes
 Castelo Capturou!
 Enviando mensageiro vermelho 3 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 6 restantes
+Castelo Capturou!
+Enviando mensageiro azul 5 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 06:48:44
+Tempo decorrido: 26:20:27
 
-Timestamp Inicial: 1604627388
-Timestamp Final: 1604651912
+Timestamp Inicial: 1604628660
+Timestamp Final: 1604723487
 
 ------------------------------------------------------
 
 Tentativa 7
-Hora de inicio: 22:49:48
+Hora de inicio: 23:11:0
 Enviando mensageiro vermelho 4 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 02:08:53
+Tempo decorrido: 11:19:24
 
-Timestamp Inicial: 1604627388
-Timestamp Final: 1604635121
+Timestamp Inicial: 1604628660
+Timestamp Final: 1604669424
 
 ------------------------------------------------------
 
 Tentativa 8
-Hora de inicio: 22:49:48
+Hora de inicio: 23:11:0
 Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 02:16:48
+Tempo decorrido: 15:44:25
 
-Timestamp Inicial: 1604627389
-Timestamp Final: 1604635597
+Timestamp Inicial: 1604628660
+Timestamp Final: 1604685325
 
 ------------------------------------------------------
 
 Tentativa 9
-Hora de inicio: 22:49:48
+Hora de inicio: 23:11:0
 Enviando mensageiro vermelho 4 restantes
 Castelo Capturou!
 Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 15:49:16
+Tempo decorrido: 11:25:13
 
-Timestamp Inicial: 1604627389
-Timestamp Final: 1604684345
+Timestamp Inicial: 1604628660
+Timestamp Final: 1604669773
 
 ------------------------------------------------------
 
 Tentativa 10
-Hora de inicio: 22:49:48
+Hora de inicio: 23:11:0
 Enviando mensageiro vermelho 4 restantes
 Castelo Capturou!
 Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 1 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
@@ -181,44 +201,38 @@ Enviando mensageiro azul 8 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 11:23:09
+Tempo decorrido: 20:21:02
 
-Timestamp Inicial: 1604627389
-Timestamp Final: 1604668378
+Timestamp Inicial: 1604628661
+Timestamp Final: 1604701923
 
 ------------------------------------------------------
 
 Tentativa 11
-Hora de inicio: 22:49:48
+Hora de inicio: 23:11:0
 Enviando mensageiro vermelho 4 restantes
 Castelo Capturou!
 Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 1 restantes
-Castelo Capturou!
-Enviando mensageiro azul 6 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 29:32:28
+Tempo decorrido: 06:39:16
 
-Timestamp Inicial: 1604627389
-Timestamp Final: 1604733737
+Timestamp Inicial: 1604628661
+Timestamp Final: 1604652617
 
 ------------------------------------------------------
 
 Tentativa 12
-Hora de inicio: 22:49:49
+Hora de inicio: 23:11:0
 Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
@@ -226,96 +240,112 @@ Castelo Capturou!
 Enviando mensageiro azul 8 restantes
 Castelo Capturou!
 Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 1 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 6 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 11:26:40
+Tempo decorrido: 26:15:41
 
-Timestamp Inicial: 1604627389
-Timestamp Final: 1604668589
+Timestamp Inicial: 1604628661
+Timestamp Final: 1604723202
 
 ------------------------------------------------------
 
 Tentativa 13
-Hora de inicio: 22:49:49
+Hora de inicio: 23:11:0
 Enviando mensageiro vermelho 4 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
 Castelo Capturou!
 Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 6 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 06:39:59
+Tempo decorrido: 17:14:46
 
-Timestamp Inicial: 1604627389
-Timestamp Final: 1604651388
+Timestamp Inicial: 1604628661
+Timestamp Final: 1604690747
 
 ------------------------------------------------------
 
 Tentativa 14
-Hora de inicio: 22:49:49
+Hora de inicio: 23:11:0
 Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 02:18:27
+Tempo decorrido: 06:38:53
 
-Timestamp Inicial: 1604627390
-Timestamp Final: 1604635697
+Timestamp Inicial: 1604628661
+Timestamp Final: 1604652594
 
 ------------------------------------------------------
 
 Tentativa 15
-Hora de inicio: 22:49:49
+Hora de inicio: 23:11:1
 Enviando mensageiro vermelho 4 restantes
 Castelo Capturou!
 Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 1 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 15:46:15
+Tempo decorrido: 16:02:53
 
-Timestamp Inicial: 1604627390
-Timestamp Final: 1604684165
+Timestamp Inicial: 1604628661
+Timestamp Final: 1604686434
 
 ------------------------------------------------------
 
 Tentativa 16
-Hora de inicio: 22:49:49
+Hora de inicio: 23:11:1
 Enviando mensageiro vermelho 4 restantes
 Castelo Capturou!
 Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 1 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
 Castelo Capturou!
 Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 15:58:03
+Tempo decorrido: 20:37:44
 
-Timestamp Inicial: 1604627390
-Timestamp Final: 1604684873
+Timestamp Inicial: 1604628661
+Timestamp Final: 1604702925
 
 ------------------------------------------------------
 
 Tentativa 17
-Hora de inicio: 22:49:49
+Hora de inicio: 23:11:1
 Enviando mensageiro vermelho 4 restantes
 Castelo Capturou!
 Enviando mensageiro vermelho 3 restantes
@@ -325,15 +355,15 @@ Enviando mensageiro azul 9 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 06:45:07
+Tempo decorrido: 06:43:08
 
-Timestamp Inicial: 1604627390
-Timestamp Final: 1604651697
+Timestamp Inicial: 1604628661
+Timestamp Final: 1604652849
 
 ------------------------------------------------------
 
 Tentativa 18
-Hora de inicio: 22:49:49
+Hora de inicio: 23:11:1
 Enviando mensageiro vermelho 4 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
@@ -343,375 +373,225 @@ Enviando mensageiro azul 8 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 06:47:44
+Tempo decorrido: 06:40:49
 
-Timestamp Inicial: 1604627390
-Timestamp Final: 1604651854
+Timestamp Inicial: 1604628661
+Timestamp Final: 1604652710
 
 ------------------------------------------------------
 
 Tentativa 19
-Hora de inicio: 22:49:50
+Hora de inicio: 23:11:1
 Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 06:35:48
+Tempo decorrido: 02:11:18
 
-Timestamp Inicial: 1604627390
-Timestamp Final: 1604651138
+Timestamp Inicial: 1604628662
+Timestamp Final: 1604636540
 
 ------------------------------------------------------
 
 Tentativa 20
-Hora de inicio: 22:49:50
+Hora de inicio: 23:11:1
 Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 1 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 0 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
 Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
-Castelo nao Capturou!
 
-Sinalizador disparado
-Tempo decorrido: 11:16:59
+Vermelho sem mensageiros
+Tempo decorrido: 24:01:44
 
-Timestamp Inicial: 1604627390
-Timestamp Final: 1604668009
+Timestamp Inicial: 1604628662
+Timestamp Final: 1604715166
 
 ------------------------------------------------------
 
 Tentativa 21
-Hora de inicio: 22:49:50
+Hora de inicio: 23:11:1
 Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 06:51:40
+Tempo decorrido: 11:30:56
 
-Timestamp Inicial: 1604627390
-Timestamp Final: 1604652090
+Timestamp Inicial: 1604628662
+Timestamp Final: 1604670118
 
 ------------------------------------------------------
 
 Tentativa 22
-Hora de inicio: 22:49:50
+Hora de inicio: 23:11:1
 Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 02:02:34
+Tempo decorrido: 06:44:13
 
-Timestamp Inicial: 1604627391
-Timestamp Final: 1604634745
+Timestamp Inicial: 1604628662
+Timestamp Final: 1604652915
 
 ------------------------------------------------------
 
 Tentativa 23
-Hora de inicio: 22:49:50
+Hora de inicio: 23:11:1
 Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 06:44:03
+Tempo decorrido: 06:44:02
 
-Timestamp Inicial: 1604627391
-Timestamp Final: 1604651634
+Timestamp Inicial: 1604628662
+Timestamp Final: 1604652904
 
 ------------------------------------------------------
 
 Tentativa 24
-Hora de inicio: 22:49:50
+Hora de inicio: 23:11:1
 Enviando mensageiro vermelho 4 restantes
 Castelo Capturou!
 Enviando mensageiro vermelho 3 restantes
 Castelo Capturou!
 Enviando mensageiro vermelho 2 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 1 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 16:04:45
+Tempo decorrido: 11:18:28
 
-Timestamp Inicial: 1604627391
-Timestamp Final: 1604685276
+Timestamp Inicial: 1604628662
+Timestamp Final: 1604669370
 
 ------------------------------------------------------
 
 Tentativa 25
-Hora de inicio: 22:49:50
+Hora de inicio: 23:11:2
 Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 06:48:27
+Tempo decorrido: 02:09:11
 
-Timestamp Inicial: 1604627391
-Timestamp Final: 1604651898
+Timestamp Inicial: 1604628662
+Timestamp Final: 1604636413
 
 ------------------------------------------------------
 
 Tentativa 26
-Hora de inicio: 22:49:51
+Hora de inicio: 23:11:2
 Enviando mensageiro vermelho 4 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
 Castelo Capturou!
 Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 06:46:44
+Tempo decorrido: 11:26:45
 
-Timestamp Inicial: 1604627391
-Timestamp Final: 1604651795
+Timestamp Inicial: 1604628663
+Timestamp Final: 1604669868
 
 ------------------------------------------------------
 
 Tentativa 27
-Hora de inicio: 22:49:51
+Hora de inicio: 23:11:2
 Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
 Castelo Capturou!
 Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo Capturou!
-Enviando mensageiro azul 6 restantes
-Castelo Capturou!
-Enviando mensageiro azul 5 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 34:09:01
+Tempo decorrido: 06:47:14
 
-Timestamp Inicial: 1604627391
-Timestamp Final: 1604750332
+Timestamp Inicial: 1604628663
+Timestamp Final: 1604653097
 
 ------------------------------------------------------
 
 Tentativa 28
-Hora de inicio: 22:49:51
+Hora de inicio: 23:11:2
 Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
 Castelo Capturou!
 Enviando mensageiro vermelho 3 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
-Enviando mensageiro azul 6 restantes
+Enviando mensageiro azul 9 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 17:11:33
+Tempo decorrido: 06:46:51
 
-Timestamp Inicial: 1604627392
-Timestamp Final: 1604689285
+Timestamp Inicial: 1604628663
+Timestamp Final: 1604653074
 
 ------------------------------------------------------
 
 Tentativa 29
-Hora de inicio: 22:49:51
+Hora de inicio: 23:11:3
 Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
 Castelo nao Capturou!
 Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
-Tempo decorrido: 02:06:36
+Tempo decorrido: 16:03:45
 
-Timestamp Inicial: 1604627392
-Timestamp Final: 1604634988
+Timestamp Inicial: 1604628663
+Timestamp Final: 1604686488
 
 ------------------------------------------------------
 
 Tentativa 30
-Hora de inicio: 22:49:51
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:48:15
-
-Timestamp Inicial: 1604627392
-Timestamp Final: 1604651887
-
-------------------------------------------------------
-
-Tentativa 31
-Hora de inicio: 22:49:51
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:32:53
-
-Timestamp Inicial: 1604627392
-Timestamp Final: 1604650965
-
-------------------------------------------------------
-
-Tentativa 32
-Hora de inicio: 22:49:52
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:11:27
-
-Timestamp Inicial: 1604627392
-Timestamp Final: 1604635279
-
-------------------------------------------------------
-
-Tentativa 33
-Hora de inicio: 22:49:52
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 1 restantes
-Castelo Capturou!
-Enviando mensageiro azul 6 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 0 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 5 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 35:11:58
-
-Timestamp Inicial: 1604627392
-Timestamp Final: 1604754110
-
-------------------------------------------------------
-
-Tentativa 34
-Hora de inicio: 22:49:52
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:06:20
-
-Timestamp Inicial: 1604627392
-Timestamp Final: 1604634972
-
-------------------------------------------------------
-
-Tentativa 35
-Hora de inicio: 22:49:52
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 1 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 0 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-
-Vermelho sem mensageiros
-Tempo decorrido: 23:54:18
-
-Timestamp Inicial: 1604627393
-Timestamp Final: 1604713451
-
-------------------------------------------------------
-
-Tentativa 36
-Hora de inicio: 22:49:52
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:45:06
-
-Timestamp Inicial: 1604627393
-Timestamp Final: 1604651699
-
-------------------------------------------------------
-
-Tentativa 37
-Hora de inicio: 22:49:52
+Hora de inicio: 23:11:3
 Enviando mensageiro vermelho 4 restantes
 Castelo Capturou!
 Enviando mensageiro vermelho 3 restantes
@@ -720,1235 +600,1443 @@ Exercito azul aceita o horário!
 Enviando mensageiro azul 9 restantes
 Castelo Capturou!
 Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 11:23:37
-
-Timestamp Inicial: 1604627393
-Timestamp Final: 1604668410
-
-------------------------------------------------------
-
-Tentativa 38
-Hora de inicio: 22:49:52
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:51:52
-
-Timestamp Inicial: 1604627393
-Timestamp Final: 1604652105
-
-------------------------------------------------------
-
-Tentativa 39
-Hora de inicio: 22:49:53
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 1 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 16:01:16
-
-Timestamp Inicial: 1604627393
-Timestamp Final: 1604685069
-
-------------------------------------------------------
-
-Tentativa 40
-Hora de inicio: 22:49:53
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:07:32
-
-Timestamp Inicial: 1604627393
-Timestamp Final: 1604635045
-
-------------------------------------------------------
-
-Tentativa 41
-Hora de inicio: 22:49:53
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:34:01
-
-Timestamp Inicial: 1604627393
-Timestamp Final: 1604651034
-
-------------------------------------------------------
-
-Tentativa 42
-Hora de inicio: 22:49:53
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:47:15
-
-Timestamp Inicial: 1604627394
-Timestamp Final: 1604651829
-
-------------------------------------------------------
-
-Tentativa 43
-Hora de inicio: 22:49:53
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 11:12:17
-
-Timestamp Inicial: 1604627394
-Timestamp Final: 1604667731
-
-------------------------------------------------------
-
-Tentativa 44
-Hora de inicio: 22:49:53
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 1 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 0 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 20:38:05
-
-Timestamp Inicial: 1604627394
-Timestamp Final: 1604701679
-
-------------------------------------------------------
-
-Tentativa 45
-Hora de inicio: 22:49:53
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:16:45
-
-Timestamp Inicial: 1604627394
-Timestamp Final: 1604635599
-
-------------------------------------------------------
-
-Tentativa 46
-Hora de inicio: 22:49:54
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:48:58
-
-Timestamp Inicial: 1604627394
-Timestamp Final: 1604651932
-
-------------------------------------------------------
-
-Tentativa 47
-Hora de inicio: 22:49:54
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:08:25
-
-Timestamp Inicial: 1604627394
-Timestamp Final: 1604635099
-
-------------------------------------------------------
-
-Tentativa 48
-Hora de inicio: 22:49:54
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:14:18
-
-Timestamp Inicial: 1604627394
-Timestamp Final: 1604635452
-
-------------------------------------------------------
-
-Tentativa 49
-Hora de inicio: 22:49:54
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 6 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 21:40:10
-
-Timestamp Inicial: 1604627395
-Timestamp Final: 1604705405
-
-------------------------------------------------------
-
-Tentativa 50
-Hora de inicio: 22:49:54
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:49:29
-
-Timestamp Inicial: 1604627395
-Timestamp Final: 1604651964
-
-------------------------------------------------------
-
-Tentativa 51
-Hora de inicio: 22:49:54
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 1 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 0 restantes
-Castelo Capturou!
-
-Vermelho sem mensageiros
-Tempo decorrido: 23:01:03
-
-Timestamp Inicial: 1604627395
-Timestamp Final: 1604710258
-
-------------------------------------------------------
-
-Tentativa 52
-Hora de inicio: 22:49:54
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 6 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 21:19:28
-
-Timestamp Inicial: 1604627395
-Timestamp Final: 1604704163
-
-------------------------------------------------------
-
-Tentativa 53
-Hora de inicio: 22:49:55
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 1 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 0 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 20:20:38
-
-Timestamp Inicial: 1604627395
-Timestamp Final: 1604700633
-
-------------------------------------------------------
-
-Tentativa 54
-Hora de inicio: 22:49:55
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:13:47
-
-Timestamp Inicial: 1604627395
-Timestamp Final: 1604635422
-
-------------------------------------------------------
-
-Tentativa 55
-Hora de inicio: 22:49:55
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:05:32
-
-Timestamp Inicial: 1604627395
-Timestamp Final: 1604634927
-
-------------------------------------------------------
-
-Tentativa 56
-Hora de inicio: 22:49:55
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:05:59
-
-Timestamp Inicial: 1604627396
-Timestamp Final: 1604634955
-
-------------------------------------------------------
-
-Tentativa 57
-Hora de inicio: 22:49:55
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:05:46
-
-Timestamp Inicial: 1604627396
-Timestamp Final: 1604634942
-
-------------------------------------------------------
-
-Tentativa 58
-Hora de inicio: 22:49:55
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:04:40
-
-Timestamp Inicial: 1604627396
-Timestamp Final: 1604634876
-
-------------------------------------------------------
-
-Tentativa 59
-Hora de inicio: 22:49:55
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:16:43
-
-Timestamp Inicial: 1604627396
-Timestamp Final: 1604635599
-
-------------------------------------------------------
-
-Tentativa 60
-Hora de inicio: 22:49:55
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:42:43
-
-Timestamp Inicial: 1604627396
-Timestamp Final: 1604651559
-
-------------------------------------------------------
-
-Tentativa 61
-Hora de inicio: 22:49:56
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 11:16:47
-
-Timestamp Inicial: 1604627396
-Timestamp Final: 1604668003
-
-------------------------------------------------------
-
-Tentativa 62
-Hora de inicio: 22:49:56
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:47:33
-
-Timestamp Inicial: 1604627396
-Timestamp Final: 1604651849
-
-------------------------------------------------------
-
-Tentativa 63
-Hora de inicio: 22:49:56
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:44:29
-
-Timestamp Inicial: 1604627396
-Timestamp Final: 1604651665
-
-------------------------------------------------------
-
-Tentativa 64
-Hora de inicio: 22:49:56
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:41:22
-
-Timestamp Inicial: 1604627397
-Timestamp Final: 1604651479
-
-------------------------------------------------------
-
-Tentativa 65
-Hora de inicio: 22:49:56
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:49:03
-
-Timestamp Inicial: 1604627397
-Timestamp Final: 1604651940
-
-------------------------------------------------------
-
-Tentativa 66
-Hora de inicio: 22:49:56
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 11:26:02
-
-Timestamp Inicial: 1604627397
-Timestamp Final: 1604668559
-
-------------------------------------------------------
-
-Tentativa 67
-Hora de inicio: 22:49:56
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:13:13
-
-Timestamp Inicial: 1604627397
-Timestamp Final: 1604635390
-
-------------------------------------------------------
-
-Tentativa 68
-Hora de inicio: 22:49:57
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 1 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 0 restantes
-Castelo Capturou!
-
-Vermelho sem mensageiros
-Tempo decorrido: 22:59:28
-
-Timestamp Inicial: 1604627397
-Timestamp Final: 1604710165
-
-------------------------------------------------------
-
-Tentativa 69
-Hora de inicio: 22:49:57
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:08:34
-
-Timestamp Inicial: 1604627397
-Timestamp Final: 1604635111
-
-------------------------------------------------------
-
-Tentativa 70
-Hora de inicio: 22:49:57
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:08:06
-
-Timestamp Inicial: 1604627397
-Timestamp Final: 1604635083
-
-------------------------------------------------------
-
-Tentativa 71
-Hora de inicio: 22:49:57
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 11:23:13
-
-Timestamp Inicial: 1604627398
-Timestamp Final: 1604668391
-
-------------------------------------------------------
-
-Tentativa 72
-Hora de inicio: 22:49:57
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:07:45
-
-Timestamp Inicial: 1604627398
-Timestamp Final: 1604635063
-
-------------------------------------------------------
-
-Tentativa 73
-Hora de inicio: 22:49:57
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro azul 6 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 5 restantes
-Castelo Capturou!
-Enviando mensageiro azul 4 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 30:53:18
-
-Timestamp Inicial: 1604627398
-Timestamp Final: 1604738596
-
-------------------------------------------------------
-
-Tentativa 74
-Hora de inicio: 22:49:58
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:06:02
-
-Timestamp Inicial: 1604627398
-Timestamp Final: 1604634960
-
-------------------------------------------------------
-
-Tentativa 75
-Hora de inicio: 22:49:58
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 1 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 20:21:57
-
-Timestamp Inicial: 1604627398
-Timestamp Final: 1604700715
-
-------------------------------------------------------
-
-Tentativa 76
-Hora de inicio: 22:49:58
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 1 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 15:53:35
-
-Timestamp Inicial: 1604627398
-Timestamp Final: 1604684613
-
-------------------------------------------------------
-
-Tentativa 77
-Hora de inicio: 22:49:58
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 11:15:36
-
-Timestamp Inicial: 1604627399
-Timestamp Final: 1604667935
-
-------------------------------------------------------
-
-Tentativa 78
-Hora de inicio: 22:49:58
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 11:16:03
-
-Timestamp Inicial: 1604627399
-Timestamp Final: 1604667962
-
-------------------------------------------------------
-
-Tentativa 79
-Hora de inicio: 22:49:58
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 20:38:44
-
-Timestamp Inicial: 1604627399
-Timestamp Final: 1604701723
-
-------------------------------------------------------
-
-Tentativa 80
-Hora de inicio: 22:49:59
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:44:44
-
-Timestamp Inicial: 1604627399
-Timestamp Final: 1604651683
-
-------------------------------------------------------
-
-Tentativa 81
-Hora de inicio: 22:49:59
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 11:17:29
-
-Timestamp Inicial: 1604627399
-Timestamp Final: 1604668048
-
-------------------------------------------------------
-
-Tentativa 82
-Hora de inicio: 22:49:59
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 11:27:35
-
-Timestamp Inicial: 1604627399
-Timestamp Final: 1604668654
-
-------------------------------------------------------
-
-Tentativa 83
-Hora de inicio: 22:49:59
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 11:14:03
-
-Timestamp Inicial: 1604627400
-Timestamp Final: 1604667843
-
-------------------------------------------------------
-
-Tentativa 84
-Hora de inicio: 22:49:59
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro azul 6 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo Capturou!
-Enviando mensageiro azul 5 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 1 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 4 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 35:16:23
-
-Timestamp Inicial: 1604627400
-Timestamp Final: 1604754383
-
-------------------------------------------------------
-
-Tentativa 85
-Hora de inicio: 22:49:59
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 1 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 15:52:10
-
-Timestamp Inicial: 1604627400
-Timestamp Final: 1604684530
-
-------------------------------------------------------
-
-Tentativa 86
-Hora de inicio: 22:50:0
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:04:21
-
-Timestamp Inicial: 1604627400
-Timestamp Final: 1604634861
-
-------------------------------------------------------
-
-Tentativa 87
-Hora de inicio: 22:50:0
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:10:21
-
-Timestamp Inicial: 1604627400
-Timestamp Final: 1604635221
-
-------------------------------------------------------
-
-Tentativa 88
-Hora de inicio: 22:50:0
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro azul 6 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 5 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 26:06:05
-
-Timestamp Inicial: 1604627401
-Timestamp Final: 1604721366
-
-------------------------------------------------------
-
-Tentativa 89
-Hora de inicio: 22:50:0
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:46:19
-
-Timestamp Inicial: 1604627401
-Timestamp Final: 1604651780
-
-------------------------------------------------------
-
-Tentativa 90
-Hora de inicio: 22:50:0
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:13:43
-
-Timestamp Inicial: 1604627401
-Timestamp Final: 1604635424
-
-------------------------------------------------------
-
-Tentativa 91
-Hora de inicio: 22:50:0
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:50:44
-
-Timestamp Inicial: 1604627401
-Timestamp Final: 1604652045
-
-------------------------------------------------------
-
-Tentativa 92
-Hora de inicio: 22:50:1
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:44:03
-
-Timestamp Inicial: 1604627401
-Timestamp Final: 1604651644
-
-------------------------------------------------------
-
-Tentativa 93
-Hora de inicio: 22:50:1
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 15:51:01
-
-Timestamp Inicial: 1604627402
-Timestamp Final: 1604684463
-
-------------------------------------------------------
-
-Tentativa 94
-Hora de inicio: 22:50:1
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:10:02
-
-Timestamp Inicial: 1604627402
-Timestamp Final: 1604635204
-
-------------------------------------------------------
-
-Tentativa 95
-Hora de inicio: 22:50:1
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 12:18:56
-
-Timestamp Inicial: 1604627402
-Timestamp Final: 1604671738
-
-------------------------------------------------------
-
-Tentativa 96
-Hora de inicio: 22:50:1
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 11:18:50
-
-Timestamp Inicial: 1604627402
-Timestamp Final: 1604668132
-
-------------------------------------------------------
-
-Tentativa 97
-Hora de inicio: 22:50:2
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 02:10:56
-
-Timestamp Inicial: 1604627402
-Timestamp Final: 1604635258
-
-------------------------------------------------------
-
-Tentativa 98
-Hora de inicio: 22:50:2
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo Capturou!
-Enviando mensageiro azul 7 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 11:16:21
-
-Timestamp Inicial: 1604627402
-Timestamp Final: 1604667983
-
-------------------------------------------------------
-
-Tentativa 99
-Hora de inicio: 22:50:2
-Enviando mensageiro vermelho 4 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
-Castelo Capturou!
-Enviando mensageiro azul 8 restantes
-Castelo nao Capturou!
-
-Sinalizador disparado
-Tempo decorrido: 06:51:04
-
-Timestamp Inicial: 1604627402
-Timestamp Final: 1604652066
-
-------------------------------------------------------
-
-Tentativa 100
-Hora de inicio: 22:50:2
-Enviando mensageiro vermelho 4 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 3 restantes
-Castelo Capturou!
-Enviando mensageiro vermelho 2 restantes
-Castelo nao Capturou!
-Exercito azul aceita o horário!
-Enviando mensageiro azul 9 restantes
 Castelo nao Capturou!
 
 Sinalizador disparado
 Tempo decorrido: 11:24:24
 
-Timestamp Inicial: 1604627403
-Timestamp Final: 1604668467
+Timestamp Inicial: 1604628663
+Timestamp Final: 1604669727
+
+------------------------------------------------------
+
+Tentativa 31
+Hora de inicio: 23:11:3
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:29:29
+
+Timestamp Inicial: 1604628663
+Timestamp Final: 1604670032
+
+------------------------------------------------------
+
+Tentativa 32
+Hora de inicio: 23:11:3
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 20:30:57
+
+Timestamp Inicial: 1604628664
+Timestamp Final: 1604702521
+
+------------------------------------------------------
+
+Tentativa 33
+Hora de inicio: 23:11:3
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:20:10
+
+Timestamp Inicial: 1604628664
+Timestamp Final: 1604669474
+
+------------------------------------------------------
+
+Tentativa 34
+Hora de inicio: 23:11:3
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:25:26
+
+Timestamp Inicial: 1604628664
+Timestamp Final: 1604669790
+
+------------------------------------------------------
+
+Tentativa 35
+Hora de inicio: 23:11:3
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 6 restantes
+Castelo Capturou!
+Enviando mensageiro azul 5 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 21:29:39
+
+Timestamp Inicial: 1604628664
+Timestamp Final: 1604706043
+
+------------------------------------------------------
+
+Tentativa 36
+Hora de inicio: 23:11:3
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 1 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 0 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 6 restantes
+Castelo Capturou!
+
+Vermelho sem mensageiros
+Tempo decorrido: 34:20:56
+
+Timestamp Inicial: 1604628664
+Timestamp Final: 1604752320
+
+------------------------------------------------------
+
+Tentativa 37
+Hora de inicio: 23:11:4
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 06:48:36
+
+Timestamp Inicial: 1604628664
+Timestamp Final: 1604653180
+
+------------------------------------------------------
+
+Tentativa 38
+Hora de inicio: 23:11:4
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:16:34
+
+Timestamp Inicial: 1604628664
+Timestamp Final: 1604636858
+
+------------------------------------------------------
+
+Tentativa 39
+Hora de inicio: 23:11:4
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:05:10
+
+Timestamp Inicial: 1604628664
+Timestamp Final: 1604636174
+
+------------------------------------------------------
+
+Tentativa 40
+Hora de inicio: 23:11:4
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:13:51
+
+Timestamp Inicial: 1604628664
+Timestamp Final: 1604636695
+
+------------------------------------------------------
+
+Tentativa 41
+Hora de inicio: 23:11:4
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 1 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 20:35:28
+
+Timestamp Inicial: 1604628664
+Timestamp Final: 1604702792
+
+------------------------------------------------------
+
+Tentativa 42
+Hora de inicio: 23:11:4
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:22:12
+
+Timestamp Inicial: 1604628665
+Timestamp Final: 1604669597
+
+------------------------------------------------------
+
+Tentativa 43
+Hora de inicio: 23:11:4
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 16:02:53
+
+Timestamp Inicial: 1604628665
+Timestamp Final: 1604686438
+
+------------------------------------------------------
+
+Tentativa 44
+Hora de inicio: 23:11:4
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 6 restantes
+Castelo Capturou!
+Enviando mensageiro azul 5 restantes
+Castelo Capturou!
+Enviando mensageiro azul 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo Capturou!
+Enviando mensageiro azul 3 restantes
+Castelo Capturou!
+Enviando mensageiro azul 2 restantes
+Castelo Capturou!
+Enviando mensageiro azul 1 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 44:36:55
+
+Timestamp Inicial: 1604628665
+Timestamp Final: 1604789280
+
+------------------------------------------------------
+
+Tentativa 45
+Hora de inicio: 23:11:4
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 06:52:11
+
+Timestamp Inicial: 1604628665
+Timestamp Final: 1604653396
+
+------------------------------------------------------
+
+Tentativa 46
+Hora de inicio: 23:11:5
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 06:45:45
+
+Timestamp Inicial: 1604628665
+Timestamp Final: 1604653010
+
+------------------------------------------------------
+
+Tentativa 47
+Hora de inicio: 23:11:5
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 06:41:40
+
+Timestamp Inicial: 1604628665
+Timestamp Final: 1604652765
+
+------------------------------------------------------
+
+Tentativa 48
+Hora de inicio: 23:11:5
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo Capturou!
+Enviando mensageiro azul 6 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 25:03:01
+
+Timestamp Inicial: 1604628665
+Timestamp Final: 1604718846
+
+------------------------------------------------------
+
+Tentativa 49
+Hora de inicio: 23:11:5
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 1 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 0 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 6 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 30:50:04
+
+Timestamp Inicial: 1604628666
+Timestamp Final: 1604739670
+
+------------------------------------------------------
+
+Tentativa 50
+Hora de inicio: 23:11:5
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:04:33
+
+Timestamp Inicial: 1604628666
+Timestamp Final: 1604636139
+
+------------------------------------------------------
+
+Tentativa 51
+Hora de inicio: 23:11:5
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:14:33
+
+Timestamp Inicial: 1604628666
+Timestamp Final: 1604669139
+
+------------------------------------------------------
+
+Tentativa 52
+Hora de inicio: 23:11:5
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:12:33
+
+Timestamp Inicial: 1604628666
+Timestamp Final: 1604636619
+
+------------------------------------------------------
+
+Tentativa 53
+Hora de inicio: 23:11:5
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:21:42
+
+Timestamp Inicial: 1604628666
+Timestamp Final: 1604669568
+
+------------------------------------------------------
+
+Tentativa 54
+Hora de inicio: 23:11:5
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:17:42
+
+Timestamp Inicial: 1604628666
+Timestamp Final: 1604636928
+
+------------------------------------------------------
+
+Tentativa 55
+Hora de inicio: 23:11:5
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 15:57:13
+
+Timestamp Inicial: 1604628666
+Timestamp Final: 1604686099
+
+------------------------------------------------------
+
+Tentativa 56
+Hora de inicio: 23:11:6
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:08:26
+
+Timestamp Inicial: 1604628666
+Timestamp Final: 1604636372
+
+------------------------------------------------------
+
+Tentativa 57
+Hora de inicio: 23:11:6
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:25:20
+
+Timestamp Inicial: 1604628666
+Timestamp Final: 1604669786
+
+------------------------------------------------------
+
+Tentativa 58
+Hora de inicio: 23:11:6
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 1 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 0 restantes
+Castelo Capturou!
+
+Vermelho sem mensageiros
+Tempo decorrido: 22:58:13
+
+Timestamp Inicial: 1604628666
+Timestamp Final: 1604711359
+
+------------------------------------------------------
+
+Tentativa 59
+Hora de inicio: 23:11:6
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 6 restantes
+Castelo Capturou!
+Enviando mensageiro azul 5 restantes
+Castelo Capturou!
+Enviando mensageiro azul 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 3 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 31:31:23
+
+Timestamp Inicial: 1604628667
+Timestamp Final: 1604742150
+
+------------------------------------------------------
+
+Tentativa 60
+Hora de inicio: 23:11:6
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 06:51:43
+
+Timestamp Inicial: 1604628667
+Timestamp Final: 1604653370
+
+------------------------------------------------------
+
+Tentativa 61
+Hora de inicio: 23:11:6
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 06:53:48
+
+Timestamp Inicial: 1604628667
+Timestamp Final: 1604653495
+
+------------------------------------------------------
+
+Tentativa 62
+Hora de inicio: 23:11:6
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo Capturou!
+Enviando mensageiro azul 6 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 25:01:35
+
+Timestamp Inicial: 1604628667
+Timestamp Final: 1604718762
+
+------------------------------------------------------
+
+Tentativa 63
+Hora de inicio: 23:11:6
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:09:40
+
+Timestamp Inicial: 1604628667
+Timestamp Final: 1604636447
+
+------------------------------------------------------
+
+Tentativa 64
+Hora de inicio: 23:11:6
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:05:56
+
+Timestamp Inicial: 1604628667
+Timestamp Final: 1604636223
+
+------------------------------------------------------
+
+Tentativa 65
+Hora de inicio: 23:11:7
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:18:57
+
+Timestamp Inicial: 1604628667
+Timestamp Final: 1604669404
+
+------------------------------------------------------
+
+Tentativa 66
+Hora de inicio: 23:11:7
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 06:42:34
+
+Timestamp Inicial: 1604628667
+Timestamp Final: 1604652821
+
+------------------------------------------------------
+
+Tentativa 67
+Hora de inicio: 23:11:7
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 06:41:39
+
+Timestamp Inicial: 1604628667
+Timestamp Final: 1604652766
+
+------------------------------------------------------
+
+Tentativa 68
+Hora de inicio: 23:11:7
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:17:47
+
+Timestamp Inicial: 1604628667
+Timestamp Final: 1604669334
+
+------------------------------------------------------
+
+Tentativa 69
+Hora de inicio: 23:11:7
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:08:16
+
+Timestamp Inicial: 1604628667
+Timestamp Final: 1604636363
+
+------------------------------------------------------
+
+Tentativa 70
+Hora de inicio: 23:11:7
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:10:25
+
+Timestamp Inicial: 1604628668
+Timestamp Final: 1604636493
+
+------------------------------------------------------
+
+Tentativa 71
+Hora de inicio: 23:11:7
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 15:50:10
+
+Timestamp Inicial: 1604628668
+Timestamp Final: 1604685678
+
+------------------------------------------------------
+
+Tentativa 72
+Hora de inicio: 23:11:7
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 06:51:36
+
+Timestamp Inicial: 1604628668
+Timestamp Final: 1604653364
+
+------------------------------------------------------
+
+Tentativa 73
+Hora de inicio: 23:11:7
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 1 restantes
+Castelo Capturou!
+Enviando mensageiro azul 6 restantes
+Castelo Capturou!
+Enviando mensageiro azul 5 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 34:26:01
+
+Timestamp Inicial: 1604628668
+Timestamp Final: 1604752629
+
+------------------------------------------------------
+
+Tentativa 74
+Hora de inicio: 23:11:7
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:07:30
+
+Timestamp Inicial: 1604628668
+Timestamp Final: 1604636318
+
+------------------------------------------------------
+
+Tentativa 75
+Hora de inicio: 23:11:8
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 6 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 21:33:09
+
+Timestamp Inicial: 1604628668
+Timestamp Final: 1604706257
+
+------------------------------------------------------
+
+Tentativa 76
+Hora de inicio: 23:11:8
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 15:51:24
+
+Timestamp Inicial: 1604628668
+Timestamp Final: 1604685752
+
+------------------------------------------------------
+
+Tentativa 77
+Hora de inicio: 23:11:8
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro azul 6 restantes
+Castelo Capturou!
+Enviando mensageiro azul 5 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 24:58:24
+
+Timestamp Inicial: 1604628668
+Timestamp Final: 1604718572
+
+------------------------------------------------------
+
+Tentativa 78
+Hora de inicio: 23:11:8
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:13:58
+
+Timestamp Inicial: 1604628669
+Timestamp Final: 1604669107
+
+------------------------------------------------------
+
+Tentativa 79
+Hora de inicio: 23:11:8
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:11:23
+
+Timestamp Inicial: 1604628669
+Timestamp Final: 1604668952
+
+------------------------------------------------------
+
+Tentativa 80
+Hora de inicio: 23:11:8
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:15:58
+
+Timestamp Inicial: 1604628669
+Timestamp Final: 1604636827
+
+------------------------------------------------------
+
+Tentativa 81
+Hora de inicio: 23:11:8
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:04:02
+
+Timestamp Inicial: 1604628669
+Timestamp Final: 1604636111
+
+------------------------------------------------------
+
+Tentativa 82
+Hora de inicio: 23:11:8
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 6 restantes
+Castelo Capturou!
+Enviando mensageiro azul 5 restantes
+Castelo Capturou!
+Enviando mensageiro azul 4 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 30:46:17
+
+Timestamp Inicial: 1604628669
+Timestamp Final: 1604739446
+
+------------------------------------------------------
+
+Tentativa 83
+Hora de inicio: 23:11:8
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:22:09
+
+Timestamp Inicial: 1604628669
+Timestamp Final: 1604669598
+
+------------------------------------------------------
+
+Tentativa 84
+Hora de inicio: 23:11:9
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 06:46:32
+
+Timestamp Inicial: 1604628669
+Timestamp Final: 1604653061
+
+------------------------------------------------------
+
+Tentativa 85
+Hora de inicio: 23:11:9
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:08:56
+
+Timestamp Inicial: 1604628669
+Timestamp Final: 1604636405
+
+------------------------------------------------------
+
+Tentativa 86
+Hora de inicio: 23:11:9
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:21:12
+
+Timestamp Inicial: 1604628669
+Timestamp Final: 1604669541
+
+------------------------------------------------------
+
+Tentativa 87
+Hora de inicio: 23:11:9
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:09:31
+
+Timestamp Inicial: 1604628669
+Timestamp Final: 1604636440
+
+------------------------------------------------------
+
+Tentativa 88
+Hora de inicio: 23:11:9
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:13:14
+
+Timestamp Inicial: 1604628669
+Timestamp Final: 1604636663
+
+------------------------------------------------------
+
+Tentativa 89
+Hora de inicio: 23:11:9
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:11:28
+
+Timestamp Inicial: 1604628670
+Timestamp Final: 1604668958
+
+------------------------------------------------------
+
+Tentativa 90
+Hora de inicio: 23:11:9
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:15:55
+
+Timestamp Inicial: 1604628670
+Timestamp Final: 1604636825
+
+------------------------------------------------------
+
+Tentativa 91
+Hora de inicio: 23:11:9
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:18:12
+
+Timestamp Inicial: 1604628670
+Timestamp Final: 1604636962
+
+------------------------------------------------------
+
+Tentativa 92
+Hora de inicio: 23:11:9
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:22:09
+
+Timestamp Inicial: 1604628670
+Timestamp Final: 1604669599
+
+------------------------------------------------------
+
+Tentativa 93
+Hora de inicio: 23:11:9
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro azul 6 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 20:40:59
+
+Timestamp Inicial: 1604628670
+Timestamp Final: 1604703129
+
+------------------------------------------------------
+
+Tentativa 94
+Hora de inicio: 23:11:9
+Enviando mensageiro vermelho 4 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 02:03:28
+
+Timestamp Inicial: 1604628670
+Timestamp Final: 1604636078
+
+------------------------------------------------------
+
+Tentativa 95
+Hora de inicio: 23:11:10
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 06:48:45
+
+Timestamp Inicial: 1604628670
+Timestamp Final: 1604653195
+
+------------------------------------------------------
+
+Tentativa 96
+Hora de inicio: 23:11:10
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 15:49:40
+
+Timestamp Inicial: 1604628670
+Timestamp Final: 1604685650
+
+------------------------------------------------------
+
+Tentativa 97
+Hora de inicio: 23:11:10
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 11:05:01
+
+Timestamp Inicial: 1604628670
+Timestamp Final: 1604668571
+
+------------------------------------------------------
+
+Tentativa 98
+Hora de inicio: 23:11:10
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 06:40:10
+
+Timestamp Inicial: 1604628670
+Timestamp Final: 1604652680
+
+------------------------------------------------------
+
+Tentativa 99
+Hora de inicio: 23:11:10
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo Capturou!
+Enviando mensageiro azul 8 restantes
+Castelo Capturou!
+Enviando mensageiro azul 7 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 20:43:12
+
+Timestamp Inicial: 1604628671
+Timestamp Final: 1604703263
+
+------------------------------------------------------
+
+Tentativa 100
+Hora de inicio: 23:11:10
+Enviando mensageiro vermelho 4 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 3 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 2 restantes
+Castelo Capturou!
+Enviando mensageiro vermelho 1 restantes
+Castelo nao Capturou!
+Exercito azul aceita o horário!
+Enviando mensageiro azul 9 restantes
+Castelo nao Capturou!
+
+Sinalizador disparado
+Tempo decorrido: 15:49:01
+
+Timestamp Inicial: 1604628671
+Timestamp Final: 1604685612
 
 ------------------------------------------------------
