@@ -51,8 +51,8 @@ def two_generals():
 
     # Inicialização de variáveis
     vermelho_mensageiro, azul_mensageiro = 0, 0
-    tempoVermelho, tempoAzul, time_elapsed = [], [], []
-    everReached = 0
+    tempoVermelho, tempoAzul, time_elapsed, time_imp = [], [], [], []
+    everReached, capt = 0, 1
 
     while(True):
         # Verifica se existem mensageiros restantes
@@ -69,6 +69,17 @@ def two_generals():
                 imp, time_elapsed, azul_mensageiro = chegaNoAzul(time_elapsed, azul_mensageiro)
                 if (imp == 0):
                     everReached = 1
+                else:
+                    while (sum(time_imp) < 12600):
+                        time_elapsed, azul_mensageiro, tempoAzul = enviaAzul(time_elapsed, azul_mensageiro, tempoAzul)
+                        voltou, time_elapsed, tempoVermelho, tempoAzul = tentativaCaptura(time_elapsed, tempoVermelho, tempoAzul, 1)
+                        if (voltou == 0):
+                            # Não foi capturado no retorno da impossibilitação
+                            time_imp.append(12600)
+                            print("Sinalizador disparado da impossibilitação")
+                        else:
+                            time_imp.append(random.randint(3600, 4201))
+                    time_imp = []
 
         if (everReached == 1):
             if (tempoAzul == []):
