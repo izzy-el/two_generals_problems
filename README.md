@@ -22,8 +22,8 @@ O algoritmo deve exibir quanto tempo demorou a troca de mensagens(hh:mm:ss), qua
 Deve-se utilizar um gerador randômico para o tempo de travessia do mensageiro, para a possibilidade de o castelo capturar um mensageiro e para a possibilidade do exército azul impossibilitar o horário escolhido pelo exército vermelho
 
 ### Desenvolvido por:
-Diogo Silveira dos Santos - 188440 <br>
-João Vitor Izael Souza - 175037 <br>
-João Vitor Oliveira de Melo - 175079 <br>
-Luiz Otávio de Oliveira Silva - 240519 <br>
-Pedro Henrique Carreto Morais - 186379 <br>
+Diogo Silveira dos Santos<br>
+João Vitor Izael Souza<br>
+João Vitor Oliveira de Melo<br>
+Luiz Otávio de Oliveira Silva<br>
+Pedro Henrique Carreto Morais<br>
