@@ -1,4 +1,4 @@
-# two_generals_problem
+# Two Generals Problem
 ### Trabalho desenvolvido para a disciplina SI220A - Matemática Discreta
 
 ### Enunciado
